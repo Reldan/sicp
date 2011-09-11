@@ -95,28 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t5.clj" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="t5.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch1/t5.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="2" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.072463766">
               <folding />
             </state>
           </provider>
@@ -140,6 +122,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="t6.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch1/t6.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="34" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t7.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch1/t7.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="73" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -155,6 +155,9 @@
         <option value="$PROJECT_DIR$/src/ch1/t3.clj" />
         <option value="$PROJECT_DIR$/src/ch1/t4.clj" />
         <option value="$PROJECT_DIR$/src/ch1/t5.clj" />
+        <option value="$PROJECT_DIR$/src/ch1/t6.clj" />
+        <option value="$PROJECT_DIR$/src/ch1/t7.clj" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -244,29 +247,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Clojure Script.t5">
-    <configuration default="false" name="t1" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
-      <module name="sicp" />
-      <setting name="path" value="$PROJECT_DIR$/src/ch1/t1.clj" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/src/ch1" />
-      <setting name="repl" value="false" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="t2" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
-      <module name="sicp" />
-      <setting name="path" value="$PROJECT_DIR$/src/ch1/t2.clj" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/src/ch1" />
-      <setting name="repl" value="false" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Clojure Script.t7">
     <configuration default="false" name="t3" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
       <module name="sicp" />
       <setting name="path" value="$PROJECT_DIR$/src/ch1/t3.clj" />
@@ -297,6 +278,34 @@
       <setting name="workDir" value="$PROJECT_DIR$/src/ch1" />
       <setting name="repl" value="false" />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="t6" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="sicp" />
+      <setting name="path" value="$PROJECT_DIR$/src/ch1/t6.clj" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/ch1" />
+      <setting name="repl" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="t7" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="sicp" />
+      <setting name="path" value="$PROJECT_DIR$/src/ch1/t7.clj" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/ch1" />
+      <setting name="repl" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55081" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -389,11 +398,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Clojure Script.t1" />
-      <item index="1" class="java.lang.String" itemvalue="Clojure Script.t2" />
-      <item index="2" class="java.lang.String" itemvalue="Clojure Script.t3" />
-      <item index="3" class="java.lang.String" itemvalue="Clojure Script.t4" />
-      <item index="4" class="java.lang.String" itemvalue="Clojure Script.t5" />
+      <item index="0" class="java.lang.String" itemvalue="Clojure Script.t3" />
+      <item index="1" class="java.lang.String" itemvalue="Clojure Script.t4" />
+      <item index="2" class="java.lang.String" itemvalue="Clojure Script.t5" />
+      <item index="3" class="java.lang.String" itemvalue="Clojure Script.t6" />
+      <item index="4" class="java.lang.String" itemvalue="Clojure Script.t7" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -524,6 +533,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1/t4.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch1/t3.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="29" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
@@ -538,23 +554,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch1/t4.clj">
+    <entry file="file://$PROJECT_DIR$/src/ch1/t6.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+        <state line="18" column="34" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1/t7.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="73" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch1/t5.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.072463766">
           <folding />
         </state>
       </provider>
