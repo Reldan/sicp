@@ -4,7 +4,8 @@
 
 (def abs (fn [a] (if (> a 0) a (- a))))
 
-(def good-enough? (fn [guess x] (<= (abs(/ (- (square guess) x) x)) 0.001)))
+;(def good-enough? (fn [guess x] (<= (abs(/ (- (square guess) x) x)) 0.001)))
+(def good-enough? (fn [guess x] (< (abs (- (square guess) x)) 0.001)))
 
 (def average (fn [x y] (/ (+ x y) 2)))
 
